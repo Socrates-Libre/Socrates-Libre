@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Socrates-Libre
+- 👋 Hi, I’m Ohen
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning JavaScript
 
