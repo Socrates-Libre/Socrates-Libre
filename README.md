@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ohen
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript + Ruby
 
 <!---
 Socrates-Libre/Socrates-Libre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
